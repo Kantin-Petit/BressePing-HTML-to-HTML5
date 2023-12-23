@@ -32,7 +32,6 @@
                         <td style="vertical-align: top;" colspan="3">
                               <?php
                               include("cartouche.php");
-                              include("date_heure.php");
                               include("menu.php");
                               ?>
                               <hr style="width: 100%; height: 2px;">
