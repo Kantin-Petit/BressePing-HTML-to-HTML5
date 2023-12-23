@@ -1,2 +1,4 @@
 index.php
 cartouche.php
+date_heure.php /*removed*/
+menu.php
