@@ -4,7 +4,7 @@
 <head>
       <meta charset="UTF-8">
       <title>
-            Tennis de table Louhans - Chateaurenaud
+            Bresse Ping
       </title>
       <link rel="shortcut icon" type="image/ico" href="http://www.bresse-ping.com/favicon.ico">
       <meta content="Thierry Lachaux" name="author">
@@ -23,9 +23,8 @@
 </head>
 
 <body>
-      <table class="fond_principal"
-            style="text-align: left; width: 1338px; margin-left: auto; margin-right: auto; border: 0;" cellpadding="2"
-            cellspacing="0">
+      <table class="fond_principal" style="text-align: left; margin-left: auto; margin-right: auto; border: 0;"
+            cellpadding="2" cellspacing="0">
 
             <tbody>
                   <tr>
@@ -129,8 +128,6 @@
                                           </small>
                                           <br>
                                           <hr style="width: 100%; height: 2px;">
-                                          <a href="file:///D:/BRESSE%20PING/index.php">
-                                                file:///D:/BRESSE%20PING/index.php</a>
                                           <img src="css/sponsors/logo_beche.jpg" style="width: 150px; height: 41px;"
                                                 alt="Bois-PVC-ALU-Parquets-Vitrification-Escaliers-Agencements-Double Vitrage">
                                           <br>
