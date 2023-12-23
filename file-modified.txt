@@ -6,3 +6,4 @@ club.php
 contact.php
 albume_photo.php /*removed*/
 babyping.php
+bloc-notes.php
