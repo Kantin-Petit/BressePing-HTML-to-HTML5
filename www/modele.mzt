@@ -1,0 +1,172 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html template="true" lang="fr"><head>
+
+
+  
+  <meta content="text/html; charset=ISO-8859-1" http-equiv="content-type"><title>Bresse Ping-Tennis Table Louhans - Page d'accueil</title>
+  
+
+  
+  
+  <meta content="Thierry Lachaux" name="author">
+
+  
+  <meta content="Club sportif de tennis de table, ping-pong à Louhans Chateaurenaud, en Bresse, affilié à FFTT" name="description">
+
+  
+  <meta name="keywords" content="tennis de table, ping-pong, louhans, bresse, chateaurenaud, club sportif, gymnase, lycee agricole, fftt, lbtt">
+
+  
+  <link rel="stylesheet" href="css/base.css" type="text/css"></head><body style="background-image: url(css/fond.jpg);">
+<table class="fond_principal" style="text-align: left; width: 80%; margin-left: auto; margin-right: auto;" border="0" cellpadding="2" cellspacing="20">
+
+  <tbody>
+    <tr>
+      <td style="vertical-align: top;">
+      <table style="text-align: left; width: 100%;" border="0" cellpadding="2" cellspacing="2">
+        <tbody>
+          <tr>
+            <td style="vertical-align: middle; text-align: center; width: 20%;"><img style="width: 200px; height: 128px;" alt="" src="css/logo_gauche.JPG"><br>
+            </td>
+            <td style="vertical-align: middle; text-align: center; width: 60%;"><img style="width: 420px; height: 140px;" alt="" src="css/titre.gif"><br>
+            </td>
+            <td style="vertical-align: middle; text-align: center; width: 20%;"><img style="width: 159px; height: 145px;" alt="" src="css/logo_droit.JPG"><br>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <script type="text/javascript">
+function tS(){
+x=new Date();
+x.setTime(x.getTime());
+return x;
+}
+function lZ(x){
+return (x>9)?x:'0'+x;
+}
+function dT(){
+if(fr==0){
+fr=1;
+document.write(" " + '<span id="tP">'+eval(oT)+'</span>');
+}
+document.getElementById("tP").innerHTML = eval(oT);
+setTimeout('dT()',1000);
+}
+var fr=0;
+oT="tS().getHours()+':'+lZ(tS().getMinutes())+':'+lZ(tS().getSeconds())";
+      </script>
+      <script>dT();</script>
+      <script language="javascript">
+// PLF - http://www.jejavascript.net/
+var datedujour, date, mois, mois1, jour, jour1, an;
+datedujour = new Date();
+jour = datedujour.getDay()
+switch(jour){
+case 1 :
+jour1 ="Lundi"
+break;
+case 2 :
+jour1 ="Mardi"
+break;
+case 3 :
+jour1 ="Mercredi"
+break;
+case 4 :
+jour1 ="Jeudi"
+break;
+case 5 :
+jour1 ="Vendredi"
+break;
+case 6 :
+jour1 ="Samedi"
+break;
+case 0 :
+jour1 ="Dimanche"
+break;
+}
+date = datedujour.getDate()
+mois = datedujour.getMonth()
+switch(mois+1){
+case 1 :
+mois1 ="Janvier"
+break;
+case 2 :
+mois1 ="Février"
+break;
+case 3 :
+mois1 ="Mars"
+break;
+case 4 :
+mois1 ="Avril"
+break;
+case 5 :
+mois1 ="Mai"
+break;
+case 6 :
+mois1 ="Juin"
+break;
+case 7 :
+mois1 ="Juillet"
+break;
+case 8 :
+mois1 ="Août"
+break;
+case 9 :
+mois1 ="Septembre"
+break;
+case 10 :
+mois1 ="Octobre"
+break;
+case 11 :
+mois1 ="Novembre"
+break;
+case 12 :
+mois1 ="Décembre"
+break;
+}
+an = datedujour.getFullYear()
+document.write("<div align='left'><font size='2'>");
+document.write(jour1, " ");
+document.write(date, " ");
+document.write(mois1 , " ");
+document.write(an, " ");
+document.write("</font></div>");</script>
+      <hr style="width: 100%; height: 2px;">
+      <table style="text-align: left; width: 100%;" class="menu" border="0" cellpadding="2" cellspacing="2">
+        <tbody>
+          <tr>
+            <td style="vertical-align: top; text-align: center; width: 12%;"><a href="index.php" target="_blank"><img style="border: 0px solid ; width: 100px; height: 100px;" alt="Accueil" src="css/balle_accueil.jpg"></a><br>
+            </td>
+            <td style="vertical-align: top; text-align: center; width: 12%;"><a href="club.php" target="_blank"><img style="border: 0px solid ; width: 100px; height: 100px;" alt="Club" src="css/balle_club.jpg"></a><br>
+            </td>
+            <td style="vertical-align: top; width: 12%; text-align: center;"><a href="tarifs.php" target="_blank"><img style="border: 0px solid ; width: 100px; height: 100px;" alt="Tarifs" src="css/balle_tarifs.jpg"></a><br>
+            </td>
+            <td style="vertical-align: top; width: 12%; text-align: center;"><a href="bloc_notes.php" target="_blank"><img style="border: 0px solid ; width: 100px; height: 100px;" alt="Bloc notes" src="css/balle_blocnotes.jpg"></a><br>
+            </td>
+            <td style="vertical-align: top; width: 12%; text-align: center;"><a href="album_photos.php" target="_blank"><img style="border: 0px solid ; width: 100px; height: 100px;" alt="Album photos" src="css/balle_photos.jpg"></a><br>
+            </td>
+            <td style="vertical-align: top; text-align: center; width: 12%;"><a href="presse.php" target="_blank"><span style="text-decoration: underline;"><img style="border: 0px solid ; width: 100px; height: 100px;" alt="Presse" src="css/balle_presse.jpg"></span></a> <br>
+            </td>
+            <td style="vertical-align: top; width: 12%; text-align: center;"><a href="liens_utiles.php" target="_blank"><img style="border: 0px solid ; width: 100px; height: 100px;" alt="Liens utiles" src="css/balle_liens.jpg"></a> <br>
+            </td>
+            <td style="vertical-align: top; width: 12%; text-align: center;"><a href="contact.php" target="_blank"><img style="border: 0px solid ; width: 100px; height: 100px;" alt="Contact" src="css/balle_contact.jpg"></a> <br>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <br>
+      <hr style="width: 100%; height: 2px;">&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp; e
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ssai de ededede<br>
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+<br>
+
+</body></html>
