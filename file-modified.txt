@@ -3,3 +3,5 @@ cartouche.php
 date_heure.php /*removed*/
 menu.php
 club.php
+contact.php
+albume_photo.php /*removed*/
