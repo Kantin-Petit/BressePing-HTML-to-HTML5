@@ -16,3 +16,4 @@ competition.php
 compteur.php /*removed*/
 contact_retour.php
 fitpingtonic.php
+form2mail.php
