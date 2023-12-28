@@ -54,7 +54,7 @@
           Vivement le prochain stage.<br>
           <br>
           <br>
-          <table style="text-align: left; width: 80%; margin-left: auto; margin-right: auto; border:0;" cellpadding="2"
+          <table style="text-align: left; width: 80%; margin-left: auto; margin-right: auto;" cellpadding="2"
             cellspacing="2">
             <tbody>
               <tr>
@@ -154,7 +154,7 @@
             C'est pas la séance pendant laquelle on s'ennuie !!!! <br>
             Vous poserez la question aux entraineurs.<br>
             <br>
-            <table style="text-align: left; width: 90%; height: 294px; margin-left: auto; margin-right: auto; border:0;"
+            <table style="text-align: left; width: 90%; height: 294px; margin-left: auto; margin-right: auto;"
               cellpadding="2" cellspacing="2">
               <tbody>
                 <tr>
