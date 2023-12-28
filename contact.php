@@ -23,7 +23,7 @@
 </head>
 
 <body>
-	<table class="fond_principal" style="text-align: left; width: 80%; margin-left: auto; margin-right: auto; border:0;"
+	<table class="fond_principal" style="text-align: left; width: 80%; margin-left: auto; margin-right: auto;"
 		cellpadding="2" cellspacing="0">
 		<tbody>
 			<tr>
@@ -47,35 +47,35 @@
 						<br>
 						<?php
 						/*
-														// expéditeur du dormulaire. Pour des raisons de sécurité, de plus en plus d'hébergeurs imposent que ce soit une adresse sur votre hébergement/nom de domaine.
-														// Par exemple si vous mettez ce script sur votre site "test-site.com", mettez votre email @test-site.com comme expéditeur (par exemple contact@test-site.com)
-														// Si vous ne changez pas cette variable, vous risquez de ne pas recevoir de formulaire.
-														$email_expediteur = 'Bresse-Ping<bressepi@60gp.ovh.net>\n';
-														$nom_expediteur = 'Contact site Bresse-Ping';
+																		  // expéditeur du dormulaire. Pour des raisons de sécurité, de plus en plus d'hébergeurs imposent que ce soit une adresse sur votre hébergement/nom de domaine.
+																		  // Par exemple si vous mettez ce script sur votre site "test-site.com", mettez votre email @test-site.com comme expéditeur (par exemple contact@test-site.com)
+																		  // Si vous ne changez pas cette variable, vous risquez de ne pas recevoir de formulaire.
+																		  $email_expediteur = 'Bresse-Ping<bressepi@60gp.ovh.net>\n';
+																		  $nom_expediteur = 'Contact site Bresse-Ping';
 
-														// destinataire est votre adresse mail. Pour envoyer à plusieurs à la fois, séparez-les par un point-virgule
-														$destinataire = 'bressepinglouhans71@gmail.com';
+																		  // destinataire est votre adresse mail. Pour envoyer à plusieurs à la fois, séparez-les par un point-virgule
+																		  $destinataire = 'bressepinglouhans71@gmail.com';
 
-														// copie ? (envoie une copie au visiteur)
-														$copie = 'oui';
+																		  // copie ? (envoie une copie au visiteur)
+																		  $copie = 'oui';
 
-														// Action du formulaire (si votre page a des paramètres dans l'URL)
-														// si cette page est index.php?page=contact alors mettez index.php?page=contact
-														// sinon, laissez vide
-														$form_action = '';
+																		  // Action du formulaire (si votre page a des paramètres dans l'URL)
+																		  // si cette page est index.php?page=contact alors mettez index.php?page=contact
+																		  // sinon, laissez vide
+																		  $form_action = '';
 
-														// Messages de confirmation du mail
-														$message_envoye = "Votre message nous est bien parvenu !";
-														$message_non_envoye = "L'envoi du mail a échoué, veuillez réessayer SVP.";
+																		  // Messages de confirmation du mail
+																		  $message_envoye = "Votre message nous est bien parvenu !";
+																		  $message_non_envoye = "L'envoi du mail a échoué, veuillez réessayer SVP.";
 
-														// Message d'erreur du formulaire
-														$message_formulaire_invalide = "Vérifiez que tous les champs soient bien remplis et que l'email soit sans erreur.";
+																		  // Message d'erreur du formulaire
+																		  $message_formulaire_invalide = "Vérifiez que tous les champs soient bien remplis et que l'email soit sans erreur.";
 
-														/*
-																																																																																																														  ********************************************************************************************
-																																																																																																														  FIN DE LA CONFIGURATION
-																																																																																																														  ********************************************************************************************
-																																																																																																													  */
+																		  /*
+																																																																																																																			********************************************************************************************
+																																																																																																																			FIN DE LA CONFIGURATION
+																																																																																																																			********************************************************************************************
+																																																																																																																		*/
 
 						/*
 						 * cette fonction sert à nettoyer et enregistrer un texte

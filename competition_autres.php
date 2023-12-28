@@ -23,9 +23,8 @@
 </head>
 
 <body>
-      <table class="fond_principal"
-            style="text-align: left; width: 100%; margin-left: auto; margin-right: auto; border:0;" cellpadding="2"
-            cellspacing="0">
+      <table class="fond_principal" style="text-align: left; width: 100%; margin-left: auto; margin-right: auto;"
+            cellpadding="2" cellspacing="0">
             <tbody>
                   <tr>
                         <td style="vertical-align: top;">
