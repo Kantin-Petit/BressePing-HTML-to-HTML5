@@ -8,4 +8,6 @@ album_photo.php /*removed*/
 babyping.php
 bloc-notes.php
 competition_autres.php
+-----------------------------
 competition_champ_equipe.php
+competition_gpd.php
