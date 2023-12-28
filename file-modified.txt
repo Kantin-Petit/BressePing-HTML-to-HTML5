@@ -12,3 +12,4 @@ competition_autres.php
 competition_champ_equipe.php
 competition_gpd.php
 competition_gpj.php
+competition.php
