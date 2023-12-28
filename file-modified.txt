@@ -19,3 +19,4 @@ fitpingtonic.php
 form2mail.php
 liens_utiles.php
 menu.php v2
+presse.php
