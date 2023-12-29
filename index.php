@@ -43,7 +43,7 @@
                         <td style="vertical-align: top; width: 151px; text-align: center;">
                               <div style="text-align: center;">
                               </div>
-                              <a href="http://www.book.com/profile.php?id=100002768834701" target="_blank">
+                              <a href="http://www.facebook.com/profile.php?id=100002768834701" target="_blank">
                                     <i class="fa-brands fa-facebook"></i>
                               </a>
                               <a href="https://twitter.com/#%21/BressePingTT" target="_blank">
