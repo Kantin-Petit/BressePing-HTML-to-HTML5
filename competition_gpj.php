@@ -6,7 +6,7 @@
       <title>
             Bresse Ping
       </title>
-      <link rel="shortcut icon" type="image/ico" href="http://www.bresse-ping.com/favicon.ico">
+      <link rel="shortcut icon" type="image/ico" href="favicon.ico">
       <meta content="Thierry Lachaux" name="author">
       <meta content="Club sportif de tennis de table, ping-pong à Louhans Chateaurenaud, en Bresse, affilié à FFTT"
             name="description">
@@ -440,7 +440,7 @@
                                           -13 ans équipe 1 (Théo/Mathis): 10ème<br>
                                           -13 ans équipe 2 (Jordy, entente Bresse-Ping TTHM): 17è�me<br>
                                           <div style="text-align: center;">
-                                                <a href="http://cd71tt.com/2011_2012/GPJ/GPJ_T3_tab_M13.pdf"
+                                                <a href="http://wwwcd71tt.com/2011_2012/GPJ/GPJ_T3_tab_M13.pdf"
                                                       target="_blank">
                                                       Voir le tableau
                                                 </a><br>
@@ -448,7 +448,7 @@
                                           <br>
                                           -15/-18 ans (Clément/Francis): 23ème<br>
                                           <div style="text-align: center;">
-                                                <a href="http://cd71tt.com/2011_2012/GPJ/GPJ_T3_tab_M15.pdf"
+                                                <a href="http://wwwcd71tt.com/2011_2012/GPJ/GPJ_T3_tab_M15.pdf"
                                                       target="_blank">
                                                       Voir le tableau
                                                 </a><br>

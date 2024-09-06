@@ -6,7 +6,7 @@
   <title>
     Bresse Ping
   </title>
-  <link rel="shortcut icon" type="image/ico" href="http://www.bresse-ping.com/favicon.ico">
+  <link rel="shortcut icon" type="image/ico" href="favicon.ico">
   <meta content="Thierry Lachaux" name="author">
   <meta content="Club sportif de tennis de table, ping-pong à Louhans Chateaurenaud, en Bresse, affilié à FFTT"
     name="description">
@@ -23,8 +23,7 @@
 </head>
 
 <body>
-  <table class="fond_principal" style="text-align: left; width: 100%; margin-left: auto; margin-right: auto;"
-    cellpadding="2" cellspacing="0">
+  <table class="fond_principal" style="text-align: left; width: 100%; margin-left: auto; margin-right: auto;" cellpadding="2" cellspacing="0">
     <tbody>
       <tr>
         <td style="vertical-align: top;">

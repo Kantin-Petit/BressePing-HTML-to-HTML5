@@ -6,7 +6,7 @@
   <title>
     Bresse Ping
   </title>
-  <link rel="shortcut icon" type="image/ico" href="http://www.bresse-ping.com/favicon.ico">
+  <link rel="shortcut icon" type="image/ico" href="favicon.ico">
   <meta content="Thierry Lachaux" name="author">
   <meta content="Club sportif de tennis de table, ping-pong à Louhans Chateaurenaud, en Bresse, affilié à FFTT"
     name="description">
@@ -326,7 +326,7 @@
               </span>
               se sont éclatés avec Yoann sur le parcours des Pandas!<br>
               (Voir la page
-              <a target="_blank" href="http://www.facebook.com/profile.php?id=100002768834701">
+              <a target="_blank" href="https://www.facebook.com/profile.php?id=100002768834701">
                 facebook
               </a>
               pour les photos!)<br>

@@ -99,7 +99,7 @@
         mail($to, $sujet, $msg, $headers);
         header('Location:contact_retour.php');
     } else {
-        header('Location:http://www.bresse-ping.com/');
+        header('Location:');
     }
     ?>
 
